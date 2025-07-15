@@ -28,7 +28,10 @@ Desarrollada por [@Andrespipe1](https://github.com/Andrespipe1)
 |-------|--------------------|-----------------|
 | <img width="200" height="400" alt="Login" src="https://github.com/user-attachments/assets/2694095c-4a1b-49aa-a73f-90da231c7a3d" /> | <img width="200" height="400" alt="Lista de visitantes" src="https://github.com/user-attachments/assets/9dd0a193-ea58-4531-9531-dc16b36f1dce" /> | <img width="200" height="400" alt="Nuevo visitante" src="https://github.com/user-attachments/assets/3fd1cdca-7aca-41f6-87ee-da2ef45b5f4a" /> |
 ---
+<img width="900" height="500" alt="imagen" src="https://github.com/user-attachments/assets/0e6f5780-e09c-4a67-b7be-d4e4022e04de" />
+<img width="589" height="435" alt="imagen" src="https://github.com/user-attachments/assets/34184d61-2cb0-494c-9b96-bfc50f6f3e1b" />
 
+---
 ## 🚀 Instalación y ejecución
 
 1. **Clona el repositorio**

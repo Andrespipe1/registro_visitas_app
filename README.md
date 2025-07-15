@@ -23,10 +23,10 @@ Desarrollada por [@Andrespipe1](https://github.com/Andrespipe1)
 
 ## 🖼️ Capturas de pantalla
 
+
 | Login | Lista de visitantes | Nuevo visitante |
 |-------|--------------------|-----------------|
-| ![login](screenshots/login.png) | ![home](screenshots/home.png) | ![add_visitor](screenshots/add_visitor.png) |
-
+| <img width="200" height="400" alt="Login" src="https://github.com/user-attachments/assets/2694095c-4a1b-49aa-a73f-90da231c7a3d" /> | <img width="200" height="400" alt="Lista de visitantes" src="https://github.com/user-attachments/assets/9dd0a193-ea58-4531-9531-dc16b36f1dce" /> | <img width="200" height="400" alt="Nuevo visitante" src="https://github.com/user-attachments/assets/3fd1cdca-7aca-41f6-87ee-da2ef45b5f4a" /> |
 ---
 
 ## 🚀 Instalación y ejecución
@@ -133,11 +133,3 @@ lib/
   - Ecuador
 
 ---
-
-## 📄 Licencia
-
-Este proyecto es solo para fines educativos y demostrativos.
-
----
-
-¡Si te fue útil, dale una estrella ⭐ y sígueme en GitHub!

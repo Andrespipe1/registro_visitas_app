@@ -4,14 +4,16 @@ import 'pages/login_page.dart';
 import 'pages/register_page.dart';
 import 'pages/home_page.dart';
 import 'pages/confirm_email_page.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 // Si quieres usar GoogleFonts, descomenta la siguiente línea y agrega google_fonts en pubspec.yaml
 // import 'package:google_fonts/google_fonts.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await dotenv.load();
   await Supabase.initialize(
-    url: 'https://lkpqknghsmhecyiewqgh.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxrcHFrbmdoc21oZWN5aWV3cWdoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI2MDY5NTYsImV4cCI6MjA2ODE4Mjk1Nn0.XBvyxHKRe2uwtx-s03YIFhHaziUGDRyPtr2Yz35KQ_g',
+    url: dotenv.env['SUPABASE_URL']!,
+    anonKey: dotenv.env['SUPABASE_ANON_KEY']!,
   );
   runApp(const MyApp());
 }
